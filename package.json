@@ -137,6 +137,6 @@
     "typescript-eslint": "^8.0.1"
   },
   "dependencies": {
-    "tldts": "^6.1.32"
+    "tldts": "^7.0.5"
   }
 }
